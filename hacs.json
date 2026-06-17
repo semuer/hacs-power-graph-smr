@@ -1,0 +1,6 @@
+{
+  "name": "AC Energy Card",
+  "description": "空调时段耗电量图表 Card，支持小时/日切换",
+  "render_readme": true,
+  "homeassistant": "2023.0.0"
+}
